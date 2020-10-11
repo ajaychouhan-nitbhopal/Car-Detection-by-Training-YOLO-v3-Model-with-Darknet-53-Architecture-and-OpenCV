@@ -1,4 +1,4 @@
-# Car-Detection-by-Training-YOLO-v3-Algorithm-with-Using-OpenCV-and-Python
+# ajaychouhan-nitbhopal.Car-Detection-by-Training-YOLO-v3-Algorithm-with-Using-OpenCV-and-Python
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fajaychouhan-nitbhopal%2FCar-Detection-by-Training-YOLO-v3-Algorithm-with-Using-Darknet-OpenCV-and-Python)
 
 This is the code files for "Car Detection by Training YOLO v3 Algorithm with Darknet, Opencv and Python" on Car Detection [dataset](https://www.kaggle.com/sshikamaru/car-object-detection) by Ajay Chouhan.
