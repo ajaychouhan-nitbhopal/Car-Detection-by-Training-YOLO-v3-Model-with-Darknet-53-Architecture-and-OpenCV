@@ -35,3 +35,4 @@ Install missing dependencies with [pip](https://pip.pypa.io/en/stable/)
 
 ## Credits
 This problem is taken from [Kaggle.com](https://www.kaggle.com/sshikamaru/car-object-detection)
+I learned to use Google Colabs GPU to train YOLOv3 and object detection with OpenCV by [PySource](https://pysource.com/) 
